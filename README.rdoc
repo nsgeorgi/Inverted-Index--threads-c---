@@ -1,0 +1,11 @@
+=Inverted Index using threads C++
+
+In order to use appropriately this project , you have to follow the next steps :
+
+[1] Use a Linux machine . Ideally Ubuntu version. 
+[2] Type the follow commangd in the linux terminal : g++ -pthread -std=c++11 main.cpp foo.cpp -o main 
+[3]  Type the follow commangd in the linux terminal : ./main test 4
+
+[You can use whatever txt you want but it must follow the format of the test.txt  !!  ]
+
+Inverted Index using threads c++ Copyright (C) 2013 Nick Georgiadis

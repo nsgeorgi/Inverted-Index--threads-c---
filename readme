@@ -1,2 +1,0 @@
-g++ -pthread -std=c++11 main.cpp foo.cpp -o main 
-./main test 4
